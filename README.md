@@ -45,7 +45,7 @@ This repository is mainly for my personal practice, but feel free to fork and us
 
 ## 🔗 Useful Links
 - [LeetCode](https://leetcode.com/)
-- [My LeetCode Profile](https://leetcode.com/your_username/)  <!-- Update with your actual profile link -->
+- [My LeetCode Profile](https://leetcode.com/samrudh_mallya/)  <!-- Update with your actual profile link -->
 
 Happy Coding! 🚀
 
