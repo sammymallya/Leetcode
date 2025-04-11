@@ -1,3 +1,5 @@
+#Tags: Easy
+#problem link:
 class Solution(object):
     def isPalindrome(self, x):
         """
