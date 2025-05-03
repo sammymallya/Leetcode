@@ -1,4 +1,4 @@
-#Tags: Easy
+#Tags: Easy,Linked_Lists
 class Solution(object):
     def reverseList(self, head):
         """
